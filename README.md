@@ -8,6 +8,7 @@
 <li>🧐 Learning about <strong>Html</strong>, <strong>CSS</strong>, and a bit of <strong>Js</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/dotjoao">Github</a>.</li>
 </ul>
+https://giphy.com/gifs/xz6BXylV23aTx4kpez
 
 
-
+<img align="right" src="https://giphy.com/gifs/xz6BXylV23aTx4kpez" />
