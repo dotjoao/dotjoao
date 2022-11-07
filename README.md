@@ -4,7 +4,7 @@
 <img align="right" src="https://media.giphy.com/media/xz6BXylV23aTx4kpez/giphy.gif" width="490" height="300" frameBorder="0"/>
 <h2>⚡️Quick Facts⚡</h2>
 <ul>
-<li>🔭 I’m currently working at <a href="http://www.mti.mt.gov.br/">Mti</a>.</li>
+<li>🔭 Working at <a href="http://www.mti.mt.gov.br/">Mti</a>.</li>
 <li>🧐 Learning about <strong>Html</strong>, <strong>CSS</strong>, and a bit of <strong>Js</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/dotjoao">Github</a>.</li>
 </ul>
